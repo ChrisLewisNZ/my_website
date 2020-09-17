@@ -92,28 +92,28 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "NYT Masks"
-      subtitle = "How does mask acceptance vary in the US?"
+      title = "IMDB to Alcohol"
+      subtitle = "An analysis on drinks, movies, stocks and IBM"
       image = "pic07.jpg"
-      url = "blogs/blog5"
+      url = "blogs/blog6"
 
-    [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
+#    [[params.tiles.showcase]]
+#      title = "Tempus"
+#      subtitle = "Feugiat Amet Tempus"
+#      image = "pic02.jpg"
+#      url = "blogs/tempus"
 
-    [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
+#    [[params.tiles.showcase]]
+#      title = "Magna"
+#      subtitle = "Lorem Etiam Nullam"
+#      image = "pic03.jpg"
+#      url = "blogs/magna"
 
-    [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+#    [[params.tiles.showcase]]
+#      title = "Ipsum"
+#      subtitle = "Nisl Sed Aliquam"
+#      image = "pic04.jpg"
+#      url = "blogs/ipsum"
 
 #    [[params.tiles.showcase]]
 #      title = "Consequat"
