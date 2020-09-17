@@ -1,3 +1,3 @@
 # my_website
 
-Welcome to my website that houses my portfolio for my R work.
+This is a repository for my Data Science Analytics using R. Reading for my Masters in Analytics and Management in London Business School gave me skills to clean, analyse and visualise data using R.
