@@ -1,14 +1,15 @@
 ---
-categories:
-- ""
-- ""
-date: "2020-09-17"
-description: This is an analysis based on alcohol, IMDB movies, stocks and IBM HR Data.
-draft: false
+title: "Alcohol and Movies"
+date: '2020-09-17'
+description: This is an analysis based on alcohol, IMDB movies, stocks and IBM HR
+  Data.
+draft: no
 image: pic07.jpg
-keywords: ""
+keywords: ''
 slug: blog6
-title: Alcohol and Movies
+categories:
+- ''
+- ''
 ---
 
 ```{r, setup}
